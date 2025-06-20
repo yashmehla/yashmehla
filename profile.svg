@@ -1,0 +1,63 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Background -->
+    <rect width="100%" height="100%" fill="#ffffff"/>
+    <rect width="790" height="390" x="5" y="5" rx="10" fill="#f8f9fa" stroke="#e9ecef" stroke-width="1"/>
+    
+    <!-- Profile Section -->
+    <!-- Profile Photo Circle with Image -->
+    <circle cx="80" cy="80" r="40" fill="#ffffff" stroke="#e9ecef" stroke-width="2"/>
+    <image href="https://github.com/yashmehla.png" x="40" y="40" width="80" height="80" clip-path="circle(40px at 40px 40px)"/>
+    <text x="140" y="70" font-family="Arial" font-size="24" font-weight="bold" fill="#212529">Yash Mehla</text>
+    <text x="140" y="95" font-family="Arial" font-size="14" fill="#6c757d">@yashmehla</text>
+    
+    <!-- Time Badge -->
+    <rect x="620" y="20" width="160" height="24" rx="12" fill="#e9ecef"/>
+    <text x="700" y="36" font-family="Arial" font-size="12" fill="#495057" text-anchor="middle">2025-06-20 13:38:18</text>
+    
+    <!-- Tech Bar -->
+    <g transform="translate(40, 120)">
+        <rect width="720" height="40" rx="8" fill="#ffffff" stroke="#dee2e6" stroke-width="1"/>
+        <!-- Tech Icons -->
+        <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" x="20" y="10" width="24" height="24"/>
+        <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" x="60" y="10" width="24" height="24"/>
+        <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" x="100" y="10" width="24" height="24"/>
+        <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" x="140" y="10" width="24" height="24"/>
+        <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" x="180" y="10" width="24" height="24"/>
+        <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" x="220" y="10" width="24" height="24"/>
+        <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" x="260" y="10" width="24" height="24"/>
+        <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" x="300" y="10" width="24" height="24"/>
+    </g>
+    
+    <!-- Contact Options -->
+    <g transform="translate(40, 180)">
+        <rect width="200" height="100" rx="8" fill="#ffffff" stroke="#dee2e6" stroke-width="1"/>
+        <text x="20" y="30" font-family="Arial" font-size="14" font-weight="bold" fill="#212529">Contact</text>
+        <text x="20" y="55" font-family="Arial" font-size="12" fill="#495057">📧 Email</text>
+        <text x="20" y="75" font-family="Arial" font-size="12" fill="#495057">💬 GitHub</text>
+        <text x="20" y="95" font-family="Arial" font-size="12" fill="#495057">🔗 LinkedIn</text>
+    </g>
+    
+    <!-- Tech Stack -->
+    <g transform="translate(280, 180)">
+        <rect width="240" height="100" rx="8" fill="#ffffff" stroke="#dee2e6" stroke-width="1"/>
+        <text x="20" y="30" font-family="Arial" font-size="14" font-weight="bold" fill="#212529">Tech Stack</text>
+        <text x="20" y="55" font-family="Arial" font-size="12" fill="#495057">💻 Languages: JavaScript, Python, Java</text>
+        <text x="20" y="75" font-family="Arial" font-size="12" fill="#495057">🛠️ Tools: Git, Docker, VS Code</text>
+        <text x="20" y="95" font-family="Arial" font-size="12" fill="#495057">🌐 Web: React, Node.js, HTML/CSS</text>
+    </g>
+    
+    <!-- About -->
+    <g transform="translate(560, 180)">
+        <rect width="200" height="100" rx="8" fill="#ffffff" stroke="#dee2e6" stroke-width="1"/>
+        <text x="20" y="30" font-family="Arial" font-size="14" font-weight="bold" fill="#212529">About Me</text>
+        <text x="20" y="55" font-family="Arial" font-size="12" fill="#495057">🚀 Developer</text>
+        <text x="20" y="75" font-family="Arial" font-size="12" fill="#495057">📚 Open Source Enthusiast</text>
+        <text x="20" y="95" font-family="Arial" font-size="12" fill="#495057">🌱 Always Learning</text>
+    </g>
+    
+    <!-- Stats Preview -->
+    <g transform="translate(40, 300)">
+        <rect width="720" height="80" rx="8" fill="#ffffff" stroke="#dee2e6" stroke-width="1"/>
+        <text x="360" y="45" font-family="Arial" font-size="14" fill="#6c757d" text-anchor="middle">MXHL</text>
+    </g>
+</svg>
