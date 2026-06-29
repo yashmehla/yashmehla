@@ -2,7 +2,7 @@
 
 I build CLI tools, backend systems and clean interfaces.<br>
 I'm opinionated about minimal design and maintainable code.<br>
-Actively looking to contribute to open source. \
+Actively looking to contribute to open source. <br>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
